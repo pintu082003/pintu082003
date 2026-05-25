@@ -1,7 +1,7 @@
 # Hi, I'm Pintu Kumar 👋
 
-💻 Full Stack Developer | Data Analyst  
-🚀 Passionate about AI & Automation  
+Data Analyst | Full-Stack Developer | Python Backend Developer  
+Building AI-powered automation, analytics dashboards & scalable web applications. 
 
 ## 🔧 Tech Stack
 - Python, JavaScript, SQL
